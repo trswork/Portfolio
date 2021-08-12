@@ -64,25 +64,8 @@
   }
 
   /* FOOTER START */
- 
-  .footer {
-    background-image: url(http://www.newdesignfile.com/postpic/2012/06/photoshop-psd-free-download_196558.jpg);
-    background-position: center;
-    background-repeat:no-repeat;
-    background-size:cover;
-  }
-
   footer {
     display: block;
-    background: lightgray;
-    padding: 40px 35px;
-    width: 100%;
-  }
-
-  footer h2 {
-      display: flex;
-      font-size: 28px;
-      margin: 0;
   }
 
    /* SECTION TITLE STYLES START */
@@ -99,7 +82,7 @@
     border-bottom: 3px solid;
     color: white;
     padding-bottom: 20px;
-    text-align: center;
+    text-align: left;
     margin: 0 auto 35px auto;
     width: 50%; 
   }
@@ -123,7 +106,7 @@
   }
 
   #hover-card:hover {
-    background-color: lightblue;
+    background-color: blue;
     opacity: 40%;
   }
 
@@ -175,7 +158,7 @@
       color: #fff;
     }
     section.cms-boxes .cms-features {
-      background-color: #b70457;
+      background-color: rgb(90, 90, 221);
     }
     section.cms-boxes .boxes-align {
       display: table-cell;
@@ -199,21 +182,7 @@
     section.cms-boxes .cms-security {
       background-color: #0489b7;
     }
-    section.cms-boxes .cms-security, 
-    section.cms-boxes .cms-documentation {
-      background-color: rgb(66, 16, 88);
-    }
-    section.cms-boxes .cms-scalability {
-      background: url(https://www.solodev.com/assets/tiles/scalability.jpg) 0 0 no-repeat;
-      background-size: cover;
-    }
-    section.cms-boxes .cms-built {
-      background: url(https://www.solodev.com/assets/tiles/customer-service.jpg) 0 0 no-repeat;
-      background-size: cover;
-    }
-    section.cms-boxes .cms-security, section.cms-boxes .cms-documentation {
-      background-color: rgb(66, 16, 88);
-    }
+  
     section.cms-boxes .cms-boxes-items:hover {
       opacity: .2;
       cursor: pointer;
