@@ -28,7 +28,8 @@
     width: 200px;
     height: 200px;
     margin-right: 20px;
-    background-image: url("image/profile.jpg");
+    background-image: url('.../image/profile.jpg');
+    background-size: cover;
   }
   
   header h1 {
