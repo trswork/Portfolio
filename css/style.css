@@ -100,10 +100,6 @@
     overflow: auto;
   }
 
-  .work img {
-    width: 25%;
-    float: left;
-  }
 
   #hover-card:hover {
     background-color: blue;
@@ -120,18 +116,7 @@
     opacity: 40%;
   }
     
-  .column-4 {
-    float: left;
-    width: 21%;
-    padding: 10px;
-    margin:20px;
-    height: 250px;
-  }
 
-  .project-text {
-    text-align:center;
-    font-size:50px;
-  }
 
   .contact h3 {
     text-align: left;
